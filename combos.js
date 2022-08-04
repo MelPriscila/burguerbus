@@ -1,5 +1,5 @@
 function saludar() {
-    alert("Bienvenidos a CodigoVegano, para continuar presione el boton 'Aceptar'");
+    alert("Bienvenidos a Burguerbuss, para continuar presione el boton 'Aceptar'");
 }
 
 function saludar2() {
